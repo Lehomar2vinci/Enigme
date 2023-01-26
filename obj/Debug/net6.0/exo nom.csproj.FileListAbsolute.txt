@@ -1,0 +1,15 @@
+C:\Users\Utilisateur\Desktop\ZMetz numeric school\Cours\C#\exos\exo nom\exo nom\bin\Debug\net6.0\exo nom.exe
+C:\Users\Utilisateur\Desktop\ZMetz numeric school\Cours\C#\exos\exo nom\exo nom\bin\Debug\net6.0\exo nom.deps.json
+C:\Users\Utilisateur\Desktop\ZMetz numeric school\Cours\C#\exos\exo nom\exo nom\bin\Debug\net6.0\exo nom.runtimeconfig.json
+C:\Users\Utilisateur\Desktop\ZMetz numeric school\Cours\C#\exos\exo nom\exo nom\bin\Debug\net6.0\exo nom.dll
+C:\Users\Utilisateur\Desktop\ZMetz numeric school\Cours\C#\exos\exo nom\exo nom\bin\Debug\net6.0\exo nom.pdb
+C:\Users\Utilisateur\Desktop\ZMetz numeric school\Cours\C#\exos\exo nom\exo nom\obj\Debug\net6.0\exo nom.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\Desktop\ZMetz numeric school\Cours\C#\exos\exo nom\exo nom\obj\Debug\net6.0\exo nom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Desktop\ZMetz numeric school\Cours\C#\exos\exo nom\exo nom\obj\Debug\net6.0\exo nom.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Desktop\ZMetz numeric school\Cours\C#\exos\exo nom\exo nom\obj\Debug\net6.0\exo nom.AssemblyInfo.cs
+C:\Users\Utilisateur\Desktop\ZMetz numeric school\Cours\C#\exos\exo nom\exo nom\obj\Debug\net6.0\exo nom.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Desktop\ZMetz numeric school\Cours\C#\exos\exo nom\exo nom\obj\Debug\net6.0\exo nom.dll
+C:\Users\Utilisateur\Desktop\ZMetz numeric school\Cours\C#\exos\exo nom\exo nom\obj\Debug\net6.0\refint\exo nom.dll
+C:\Users\Utilisateur\Desktop\ZMetz numeric school\Cours\C#\exos\exo nom\exo nom\obj\Debug\net6.0\exo nom.pdb
+C:\Users\Utilisateur\Desktop\ZMetz numeric school\Cours\C#\exos\exo nom\exo nom\obj\Debug\net6.0\exo nom.genruntimeconfig.cache
+C:\Users\Utilisateur\Desktop\ZMetz numeric school\Cours\C#\exos\exo nom\exo nom\obj\Debug\net6.0\ref\exo nom.dll
